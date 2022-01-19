@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "git": "^0.1.5"
+  },
+  "name": "taupeass",
+  "version": "1.0.0",
+  "description": "TaupeAss age verification bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ReyFox_",
+  "license": "ISC"
+}
